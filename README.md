@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>A Special Question</title>
