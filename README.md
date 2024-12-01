@@ -12,7 +12,7 @@
             justify-content: center;
             align-items: center;
             font-family: "Comic Sans MS";
-          	margin-top: 500px;
+          	margin-top: 50px;
         }
 
         section {
